@@ -26,7 +26,7 @@ Ba mô hình học máy có giám sát được xây dựng và so sánh: **Logi
 ## 3. Bộ dữ liệu
 
 - **Số lượng:** 614 hồ sơ vay mua nhà lịch sử của Company X.
-- **File đầu vào:** `company-x-loan.csv` (cần đặt cùng thư mục với notebook trước khi chạy).
+- **File đầu vào:** `company-x-loan.csv` 
 - **Biến mục tiêu:** `Loan_Status` (Y = được phê duyệt, N = bị từ chối).
 - **Nhóm biến chính:** thông tin nhân khẩu học (Gender, Married, Dependents, Education, Self_Employed), tài chính (ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term), lịch sử tín dụng (Credit_History) và khu vực bất động sản (Property_Area).
 
