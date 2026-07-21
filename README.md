@@ -1,7 +1,9 @@
 # Company X – Sàng lọc Hồ sơ Phê duyệt Khoản vay (Loan Approval Pre-Screening)
 
 **Môn học:** FDC104 – Lập trình cho phân tích dữ liệu và tính toán khoa học
+
 **Phiên bản:** Final
+
 **Ngày nộp:** 12/07/2026
 
 ---
