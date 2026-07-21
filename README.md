@@ -68,20 +68,15 @@ Ba mô hình học máy có giám sát được xây dựng và so sánh: **Logi
 - **Decision Tree** *(khuyến nghị chính)* – quy tắc trực quan, dễ giải thích, độ chính xác cao nhất; phù hợp hỗ trợ chuyên viên tín dụng.
 - **Random Forest** – ổn định hơn khi mở rộng quy mô tự động hóa, ít phụ thuộc vào một biến duy nhất.
 
-## 7. Yêu cầu cài đặt
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-## 8. Hướng dẫn chạy
+## 7. Hướng dẫn chạy
 
 1. Đặt file dữ liệu `company-x-loan.csv` cùng thư mục với notebook `Loan_Approval_Pre-Screening.ipynb`.
 2. Mở notebook bằng Jupyter Notebook/JupyterLab.
 3. Chạy tuần tự các cell từ đầu đến cuối (Kernel → Restart & Run All).
 4. Notebook sẽ xuất ra file trung gian `loan_cleaned.csv` sau bước Feature Engineering/Preprocessing, được dùng lại ở phần Model Development.
 
-## 9. Hạn chế và hướng phát triển
+## 8. Hạn chế và hướng phát triển
 
 **Hạn chế:**
 - Quy mô dữ liệu nhỏ (614 dòng), hạn chế độ tin cậy khi tổng quát hóa.
